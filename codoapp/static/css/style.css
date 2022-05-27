@@ -65,3 +65,6 @@ h1,h4,h2,li {
 nav{
     background-color: white;
 }
+.btn-light{
+    background-color: rgb(239, 239, 226);
+}
