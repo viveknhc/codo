@@ -1,0 +1,1 @@
+web: gunicorn codo_prj.wsgi --log-file - 

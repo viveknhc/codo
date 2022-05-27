@@ -1,0 +1,67 @@
+#parent{
+    position: relative;
+    height: 500px;
+}
+.contant{
+    background-image: linear-gradient(to right,rgb(255, 255, 255), rgba(255, 255, 255, 0.84));
+    position: absolute;
+    top: 0;
+
+    z-index: 9;
+    
+   
+}
+.image{
+    
+    position: absolute;
+    top: 0px;
+
+
+}
+
+button{
+    height: 35px;
+    width: 150px;
+}
+
+
+.btn-outline-primary{
+   border-color: black;
+   background-color: rgb(35, 228, 132);
+   color: rgb(0, 0, 0);
+   border-radius: 15px;
+}
+.fa-question{
+    color: yellow;
+}
+.fa-arrow-right{
+    color: rgb(178, 173, 173);
+}
+.coco{
+    color: yellow;
+
+}
+.btn-light{
+    border-color: black;
+    border-radius: 30px;
+    color: rgb(0, 0, 0);
+}
+.product{
+    text-align: center;
+}
+.card{
+    height: 100px;
+    width: 50px;
+}
+
+h1,h4,h2,li {
+    font-family: 'Nunito', sans-serif;
+    
+}
+.fa{
+    color: rgb(193, 193, 50);
+}
+
+nav{
+    background-color: white;
+}
